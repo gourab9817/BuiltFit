@@ -57,8 +57,7 @@ Whether you're a beginner or an experienced lifter, Builtfit is designed to give
 Clone the repo and launch the app locally.
 
 ```bash
-git clone https://github.com/AdamDybcio/notoro.git
-cd notoro
+git clone (https://github.com/gourab9817/BuiltFit.git)
 flutter pub get
 flutter run
 ```
