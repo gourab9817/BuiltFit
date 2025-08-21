@@ -1,4 +1,4 @@
-# Notoro – Your Personal Strength Training App
+# Builtfit – Your Personal Strength Training App
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.10+-blue.svg)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev)
@@ -9,9 +9,9 @@
 
 ## 🧠 Project Description
 
-**Notoro** is a comprehensive and intuitive workout tracking app that helps you plan, execute, and analyze your strength training sessions.
+**Builtfit** is a comprehensive and intuitive workout tracking app that helps you plan, execute, and analyze your strength training sessions.
 
-Whether you're a beginner or an experienced lifter, Notoro is designed to give you control over your workouts, your progress, and your training routine — all in one app.
+Whether you're a beginner or an experienced lifter, Builtfit is designed to give you control over your workouts, your progress, and your training routine — all in one app.
 
 ---
 
@@ -158,15 +158,13 @@ Ideas, issues, and suggestions are always appreciated!
 
 ---
 
-## 📄 License
 
-**Notoro** is open source and available under the [MIT License](https://github.com/AdamDybcio/Notoro?tab=MIT-1-ov-file).
 
 ---
 
 ## 💬 Contact
 
-Created and maintained by [Adam Dybcio](https://github.com/AdamDybcio)  
+Created and maintained by [Gourab Choudhury](https://github.com/gourab9817)  
 Feel free to connect or open an issue!
 
 ---
