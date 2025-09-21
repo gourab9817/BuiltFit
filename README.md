@@ -36,7 +36,7 @@ Whether you're a beginner or an experienced lifter, Builtfit is designed to give
   Dark/light/system theme, weight unit preference (kg/lb), default rest/reps/sets, and language selection.
 
 - 🌍 **Multilingual Support**  
-  English, Polish, German, French, Spanish, Italian, Portuguese
+  English, Polish, German, French, Spanish, Italian, Portuguese.
 
 ---
 
